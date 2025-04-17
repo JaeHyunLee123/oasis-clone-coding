@@ -37,6 +37,7 @@
   font-weight: 500;
   color: var(--main-font-color);
   text-decoration: none;
+  text-align: center;
 }
 
 .video__youtube-link:hover {
