@@ -17,6 +17,8 @@
 상단 배너는 제가 좋아하는 오아시스 가사들이 나옵니다.
 문구가 변화할 때 fade-in-out 애니메이션을 적용했습니다.
 
+<img width="1071" alt="Image" src="https://github.com/user-attachments/assets/4d3fef71-d788-447a-8009-5e10bfa74b65" />
+
 ### 스크롤 스타일링
 
 <img width="1281" alt="Image" src="https://github.com/user-attachments/assets/c59e7257-4fce-4462-903a-35dc84ede203" />
