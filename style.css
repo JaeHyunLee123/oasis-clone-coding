@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital,wght@0,100..900;1,100..900&display=swap");
+@import "reset.css";
+
+:root {
+  --main-font-color: #111111;
+  --main-bg-color: whitesmoke;
+
+  --point-color1: rgb(190, 190, 190);
+}
+
+body {
+  background-color: var(--main-bg-color);
+
+  font-family: "Noto Sans Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+main {
+  height: 500px;
+}
+
+.favorite-lyric {
+  width: 100%;
+  text-align: center;
+  padding: 30px 5px;
+
+  box-sizing: border-box;
+
+  background-color: var(--main-font-color);
+  color: var(--main-bg-color);
+
+  font-weight: 800;
+  font-style: italic;
+  font-size: 3rem;
+
+  text-wrap: balance;
+
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+}
+
+.oasis-logo {
+  border: 3px solid var(--main-font-color);
+
+  display: inline-block;
+
+  padding: 3px;
+
+  background-color: var(--main-bg-color);
+}
+
+.oasis-logo__text {
+  background-color: var(--main-font-color);
+  color: var(--main-bg-color);
+
+  display: inline-block;
+
+  padding: 5px;
+
+  font-size: 1.5rem;
+}
+
+@media (max-width: 630px) {
+  .favorite-lyric {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .favorite-lyric {
+    font-size: 2rem;
+  }
+}
