@@ -30,7 +30,9 @@
   <img width="1461" alt="Image" src="https://github.com/user-attachments/assets/9f1c6c11-fabb-4564-9314-59a3e2e70505" />
 
 ### 반응형 디자인
-
-<img width="558" alt="Image" src="https://github.com/user-attachments/assets/96e31a74-8e0c-4978-bdb2-2700b3ad700c" />
++ mobile
+<img width="558"  alt="Image" src="https://github.com/user-attachments/assets/96e31a74-8e0c-4978-bdb2-2700b3ad700c" />
++ tablet
 <img width="874" alt="Image" src="https://github.com/user-attachments/assets/b43c77f5-410f-4103-8ffd-ad460bd23eb8" />
++pc
 <img width="1226" alt="Image" src="https://github.com/user-attachments/assets/c3be4dcf-1a4c-4391-a614-46704b9a1275" />
