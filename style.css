@@ -18,10 +18,6 @@ body {
   font-variation-settings: "wdth" 100;
 }
 
-main {
-  height: 500px;
-}
-
 .favorite-lyric {
   width: 100%;
   text-align: center;

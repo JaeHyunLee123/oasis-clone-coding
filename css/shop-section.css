@@ -10,6 +10,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  margin-bottom: 50px;
 }
 
 .shop-text__title {
@@ -22,4 +24,20 @@
   font-size: 1.4rem;
   font-weight: 500;
   margin-bottom: 20px;
+}
+
+.shop__image {
+  display: block;
+
+  width: 700px;
+  height: 700px;
+
+  box-shadow: 0px 0px 10px 5px var(--point-color1);
+}
+
+@media (max-width: 750px) {
+  .shop__image {
+    width: calc(100% - 30px);
+    height: calc(100% - 30px);
+  }
 }
