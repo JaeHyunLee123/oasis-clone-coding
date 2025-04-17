@@ -58,6 +58,10 @@ main {
   background-color: var(--main-bg-color);
 }
 
+.oasis-logo:hover {
+  transform: scale(1.1);
+}
+
 .oasis-logo__text {
   background-color: var(--main-font-color);
   color: var(--main-bg-color);
@@ -66,7 +70,7 @@ main {
 
   padding: 5px;
 
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 @media (max-width: 630px) {
