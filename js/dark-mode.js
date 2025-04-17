@@ -1,5 +1,6 @@
 const toggleInput = document.getElementById("mode-toggle");
 const slider = document.querySelector(".theme-toggle__slider");
+const text = document.querySelector(".theme-toggle__label");
 
 // 스위치를 눌러도 토글되도록
 slider.addEventListener("click", () => {
@@ -14,8 +15,10 @@ toggleInput.addEventListener("change", () => {
   if (toggleInput.checked) {
     root.style.setProperty("--main-font-color", "#f1f1f1");
     root.style.setProperty("--main-bg-color", "#111");
+    text.innerText = "Switch to light mode";
   } else {
     root.style.setProperty("--main-font-color", "#111");
     root.style.setProperty("--main-bg-color", "whitesmoke");
+    text.innerText = "Switch to dark mode";
   }
 });
