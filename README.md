@@ -8,7 +8,7 @@
 
 ### 클로 코딩 결과
 
-[Clone Oasis](https://jaehyunlee123.github.io/oasis-clone-coding/#oasismynet)
+[Clone Oasis](https://jaehyunlee123.github.io/oasis-clone-coding/)
 
 # 주요 기능
 
