@@ -67,6 +67,10 @@
   border: 2.5px solid var(--main-font-color);
 }
 
+.album-link-list__link:hover {
+  transform: scale(1.1);
+}
+
 @media (max-width: 1240px) {
   .album {
     width: calc(100% - 40px);
