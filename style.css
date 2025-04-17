@@ -40,6 +40,12 @@ main {
 
   line-height: 1.6;
   letter-spacing: 0.02em;
+
+  transition: color 500ms ease-in-out;
+}
+
+.fade-out {
+  color: var(--main-font-color);
 }
 
 .oasis-logo {
