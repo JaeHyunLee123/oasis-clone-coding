@@ -24,11 +24,10 @@ https://github.com/user-attachments/assets/69a05780-b529-4144-9103-3195d83befae
 
 ## 화이트모드 <-> 다크모드
 
-### 화이트모드
-![jaehyunlee123 github io_oasis-clone-coding_](https://github.com/user-attachments/assets/94c63054-d154-4ea2-ada6-136f63f8ace9)
-
-### 다크모드
-![jaehyunlee123 github io_oasis-clone-coding_ (1)](https://github.com/user-attachments/assets/89ad3c93-8a48-4fed-889f-7adfb550d4ed)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/94c63054-d154-4ea2-ada6-136f63f8ace9" width="600px" />
+  <img src="https://github.com/user-attachments/assets/89ad3c93-8a48-4fed-889f-7adfb550d4ed" width="600px" />
+</p>
 
 
 
