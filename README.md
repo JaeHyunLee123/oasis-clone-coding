@@ -20,11 +20,12 @@
 https://github.com/user-attachments/assets/69a05780-b529-4144-9103-3195d83befae
 
 ### 스크롤 스타일링
-
-
+https://github.com/user-attachments/assets/07b3284d-d6b2-45e9-adf4-7f365d927ba6
 
 ### 다크모드
 
-
+https://github.com/user-attachments/assets/34f21c66-88a2-46e3-b9c4-1afd1b31fa73
 
 ### 반응형 디자인
+
+https://github.com/user-attachments/assets/8253129b-62d5-4cb1-9d7a-5062420b4847
