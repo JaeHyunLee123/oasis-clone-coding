@@ -25,8 +25,8 @@ https://github.com/user-attachments/assets/69a05780-b529-4144-9103-3195d83befae
 ## 화이트모드 <-> 다크모드
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/94c63054-d154-4ea2-ada6-136f63f8ace9" width="300px" />
-  <img src="https://github.com/user-attachments/assets/89ad3c93-8a48-4fed-889f-7adfb550d4ed" width="300px" />
+  <img src="https://github.com/user-attachments/assets/94c63054-d154-4ea2-ada6-136f63f8ace9" width="400px" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/89ad3c93-8a48-4fed-889f-7adfb550d4ed" width="400px" />
 </p>
 
 
